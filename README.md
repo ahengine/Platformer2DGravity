@@ -1,2 +1,4 @@
 # Platformer2DGravity
- this is a sample a platformer 2d with can change gravity direction
+ this is a sample 2DPlatformer for unity
+ - Can Move (Horiozontally)
+ - Can Change Gravity (With Space)
